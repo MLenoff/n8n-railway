@@ -1,0 +1,7 @@
+{
+  "name": "n8n-railway",
+  "version": "1.0.0",
+  "dependencies": {
+    "@apify/n8n-nodes-preview-apify": "^0.1.7"
+  }
+}
